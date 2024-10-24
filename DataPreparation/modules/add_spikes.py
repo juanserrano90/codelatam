@@ -2,6 +2,10 @@
 # -- Modified from original code by : Willow Fox Fortino
 # Last Modified: Oct. 21th, 2024
 
+import numpy as np
+from scipy import stats
+import logging
+
 def add_spikes(spectrum, redshift, start=2501.69, end=9993.24):
     """Loosely simulate telluric lines by adding in one-pixel wide spikes to the
        spectra are expected de-redshifted telluric lines.
@@ -53,7 +57,7 @@ def add_spikes(spectrum, redshift, start=2501.69, end=9993.24):
 
       # Logging information
       logging.info(f'------Number of spikes to add: {num_spikes}')
-      logging.info(f'------Location of spikes: {spike_loc}')
+      logging.info(f'------Location of spikes (index): {spike_loc}')
       logging.info(f'------Magnitude of spikes: {spike_mag}')
       logging.info(f'------Direction of spikes: {spike_dir}')
 
