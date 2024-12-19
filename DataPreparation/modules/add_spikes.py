@@ -6,6 +6,10 @@ import numpy as np
 from scipy import stats
 import logging
 
+# -- Authors: Paula Gálvez Molina
+# -- Modified from original code by : Willow Fox Fortino
+# Last Modified: Oct. 21th, 2024
+
 def add_spikes(spectrum, redshift, start=2501.69, end=9993.24):
     """Loosely simulate telluric lines by adding in one-pixel wide spikes to the
        spectra are expected de-redshifted telluric lines.
@@ -50,15 +54,15 @@ def add_spikes(spectrum, redshift, start=2501.69, end=9993.24):
       spike_dir[spike_dir == 0] = -1
 
       # Finally choose the magnitude of the spike. We take the absolute value since we are having the sign of the spike determined by the previous set of code.
-      # The standard deviations of the magnitude of the injected spikes will be tied to the standard deviation of the spectrum.
-      spike_mag = np.abs(stats.norm.rvs(loc=0, scale=2*spectrum.std(), size=num_spikes))
+      # The magnitude is drawn from a gaussian distribution with mean 1 and standard deviation 0.75 so that 68% values lie (0.75, 1.25) as determined by this study.
+      spike_mag = np.abs(stats.norm.rvs(loc=1, scale=0.75, size=num_spikes))
 
       spiked[spike_loc] = spike_mag * spike_dir
 
       # Logging information
       logging.info(f'------Number of spikes to add: {num_spikes}')
-      logging.info(f'------Location of spikes (index): {spike_loc}')
+      logging.info(f'------Location of spikes: {spike_loc}')
       logging.info(f'------Magnitude of spikes: {spike_mag}')
       logging.info(f'------Direction of spikes: {spike_dir}')
 
-    return spiked
+    return spiked, spike_loc
