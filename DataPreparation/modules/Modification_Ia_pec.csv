@@ -1,0 +1,1486 @@
+Object,Phase Delay,Modification Type,Redshift Applied,Spikes Added
+sn1997br,-9.6,Shift Spectrum,False,False
+sn2003fa,16.5,None,False,False
+sn99aa,-10.491,Shift Spectrum,False,False
+sn2001V,-5.4,Shift Spectrum,False,False
+sn2001V,21.1,Shift Spectrum,False,False
+sn2003fa,15.5,None,False,False
+sn2005hj,0.5,Add Spikes,False,True
+sn91T,112.817,None,False,False
+sn1999aa,-8.0,None,False,False
+sn1998ab,18.4,None,False,False
+sn01eh,32.079,Add Spikes,False,True
+sn2005hj,9.9,None,False,False
+sn2001ah,44.3,None,False,False
+sn2007S,33.7,None,False,False
+sn2001V,19.1,Shift and Add Spikes,False,True
+sn1999aa,-9.0,None,False,False
+sn1997br,-4.6,None,False,False
+sn2003fa,19.3,None,False,False
+sn1999ac,36.6,None,False,False
+sn1999aa,44.1,Shift Spectrum,False,False
+sn2001eh,8.6,None,False,False
+sn1999aa,16.6,Add Spikes,False,True
+sn1995bd,10.6,Shift and Add Spikes,False,True
+sn1999aa,-9.4,None,False,False
+sn2001V,20.3,Shift Spectrum,False,False
+sn1999aa,-8.0,None,False,False
+sn2005hj,24.0,Shift Spectrum,False,False
+sn1991T,-7.7,Add Spikes,False,True
+sn1999ac,-9.9,Shift Spectrum,False,False
+sn2001V,27.0,Shift and Add Spikes,False,True
+sn95ac,24.4,Add Spikes,False,True
+sn2001V,18.2,Shift Spectrum,False,False
+sn2003fa,-8.5,None,False,False
+sn2001V,46.7,None,False,False
+sn2005eq,-3.5,Add Spikes,False,True
+sn91T,82.989,Add Spikes,False,True
+sn1999aw,2.9,None,False,False
+sn1998ab,21.3,Shift and Add Spikes,False,True
+sn1998ab,34.0,Add Spikes,False,True
+sn1999ac,34.7,Add Spikes,False,True
+sn1999ac,33.6,Shift and Add Spikes,False,True
+sn1997br,7.9,Add Spikes,False,True
+sn2001V,-9.3,Add Spikes,False,True
+sn2007S,12.1,None,False,False
+sn1997br,16.8,Shift Spectrum,False,False
+sn1999gp,49.7,Shift and Add Spikes,False,True
+sn2007S,-2.7,None,False,False
+sn2005M,24.7,Shift Spectrum,False,False
+sn1998es,-9.4,Shift Spectrum,False,False
+sn01eh,32.079,None,False,False
+sn1997br,7.2,None,False,False
+sn2003hu,8.4,Add Spikes,False,True
+sn1998es,29.1,Shift Spectrum,False,False
+sn1999aa,-9.0,None,False,False
+sn1998es,-9.4,None,False,False
+sn1998es,44.1,Shift and Add Spikes,False,True
+sn2005M,5.1,Add Spikes,False,True
+sn01eh,3.257,Shift and Add Spikes,False,True
+sn1997br,37.0,None,False,False
+sn2001eh,2.7,Shift and Add Spikes,False,True
+sn2003hu,7.5,None,False,False
+sn1991T,-6.7,None,False,False
+sn1999ac,30.7,Shift Spectrum,False,False
+sn2001V,-7.4,Add Spikes,False,True
+sn2005eq,51.1,Add Spikes,False,True
+sn1997br,48.5,Shift Spectrum,False,False
+sn1999ac,11.8,Shift and Add Spikes,False,True
+sn91T,46.6,Add Spikes,False,True
+sn2001eh,30.8,Shift Spectrum,False,False
+sn1998es,-5.4,Shift and Add Spikes,False,True
+sn05eq,51.16,Shift and Add Spikes,False,True
+sn2001V,28.0,Shift and Add Spikes,False,True
+sn2006oa,-5.7,None,False,False
+sn2005M,24.7,Shift and Add Spikes,False,True
+sn1998es,-8.4,Shift Spectrum,False,False
+sn2005eq,-5.4,Add Spikes,False,True
+sn2001eh,31.6,Shift Spectrum,False,False
+sn2005M,10.0,Add Spikes,False,True
+sn2002hu,-0.7,Shift Spectrum,False,False
+sn1991bg,52.9,Shift Spectrum,False,False
+sn2000cn,-9.3,Shift and Add Spikes,False,True
+sn1986G,-0.2,Shift Spectrum,False,False
+sn1999by,5.9,None,False,False
+sn1998de,-2.2,Shift Spectrum,False,False
+sn2005ke,11.4,None,False,False
+sn91bg,33.7,Shift Spectrum,False,False
+sn1986G,-3.0,Shift and Add Spikes,False,True
+sn1991bg,14.1,Shift and Add Spikes,False,True
+sn1986G,-4.7,None,False,False
+sn2006hb,6.8,Shift Spectrum,False,False
+sn1991bg,18.0,Add Spikes,False,True
+sn91bg,53.5,Add Spikes,False,True
+sn2007al,10.1,None,False,False
+sn2002dl,-7.4,Shift Spectrum,False,False
+sn1991bg,18.0,Add Spikes,False,True
+sn1986G,-2.7,None,False,False
+sn1998de,-5.2,Shift and Add Spikes,False,True
+sn1998de,-3.2,Add Spikes,False,True
+sn99da,36.907,None,False,False
+sn1997cn,43.4,None,False,False
+sn1991bg,33.8,None,False,False
+sn1986G,55.7,Add Spikes,False,True
+sn02fb,18.602,Shift Spectrum,False,False
+sn2007al,5.3,Add Spikes,False,True
+sn1986G,-3.7,None,False,False
+sn99da,7.359,Add Spikes,False,True
+sn91bg,117.2,Shift and Add Spikes,False,True
+sn1991bg,49.9,Shift and Add Spikes,False,True
+sn2002dl,10.3,None,False,False
+sn1991bg,33.1,Shift and Add Spikes,False,True
+sn2007ax,20.9,Shift Spectrum,False,False
+sn2006hb,9.7,None,False,False
+sn2006hb,9.7,None,False,False
+sn1997cn,3.9,Add Spikes,False,True
+sn2000cn,-9.3,Add Spikes,False,True
+sn1991bg,45.7,Shift Spectrum,False,False
+sn99by,7.1,Add Spikes,False,True
+sn99by,31.1,Shift and Add Spikes,False,True
+sn1986G,44.2,None,False,False
+sn1997cn,3.9,Shift Spectrum,False,False
+sn1986G,-3.0,Shift and Add Spikes,False,True
+sn1986G,323.2,Shift Spectrum,False,False
+sn1986G,-2.7,Shift and Add Spikes,False,True
+sn91bg,19.312,Shift Spectrum,False,False
+sn2006hb,30.3,Shift and Add Spikes,False,True
+sn1997cn,15.8,Shift Spectrum,False,False
+sn1991bg,45.7,Add Spikes,False,True
+sn91bg,20.2,Shift and Add Spikes,False,True
+sn2003Y,-6.3,Shift Spectrum,False,False
+sn1991bg,116.6,None,False,False
+sn1991bg,2.1,None,False,False
+sn1991bg,25.0,None,False,False
+sn1997cn,3.9,Shift and Add Spikes,False,True
+sn1999by,-4.1,None,False,False
+sn1991bg,52.8,Shift Spectrum,False,False
+sn1986G,102.6,None,False,False
+sn2006hb,30.3,Shift Spectrum,False,False
+sn1997cn,11.9,None,False,False
+sn2006gt,1.3,Shift and Add Spikes,False,True
+sn1986G,0.3,Shift and Add Spikes,False,True
+sn08bt,10.967,Shift and Add Spikes,False,True
+sn1999by,28.9,Shift and Add Spikes,False,True
+sn2006gt,2.3,Shift Spectrum,False,False
+sn1991bg,202.1,Add Spikes,False,True
+sn1991bg,87.5,Add Spikes,False,True
+sn2005mz,-7.5,None,False,False
+sn99by,-4.8,Shift Spectrum,False,False
+sn1991bg,116.6,None,False,False
+sn2002dl,-8.4,Shift and Add Spikes,False,True
+sn1997cn,15.0,Add Spikes,False,True
+sn1998de,-7.2,Shift and Add Spikes,False,True
+sn91bg,143.0,None,False,False
+sn1997cn,20.8,Shift Spectrum,False,False
+sn99by,6.1,None,False,False
+sn1986G,21.7,Shift and Add Spikes,False,True
+sn1986G,-3.7,Shift Spectrum,False,False
+sn2007al,3.3,Shift and Add Spikes,False,True
+sn1986G,-0.2,Add Spikes,False,True
+sn91bg,50.5,Shift and Add Spikes,False,True
+sn1998de,-0.3,Shift and Add Spikes,False,True
+sn1986G,22.7,Add Spikes,False,True
+sn1991bg,33.8,Add Spikes,False,True
+sn2006gt,1.3,Add Spikes,False,True
+sn2006gt,2.3,Add Spikes,False,True
+sn91bg,117.2,Shift and Add Spikes,False,True
+sn91bg,19.312,None,False,False
+sn06ke,8.43,Shift and Add Spikes,False,True
+sn1999bh,5.1,Add Spikes,False,True
+sn2005bl,4.7,Shift Spectrum,False,False
+sn2000cn,50.2,Shift Spectrum,False,False
+sn2005bl,19.3,Shift Spectrum,False,False
+sn1986G,21.7,None,False,False
+sn1997cn,20.8,None,False,False
+sn1986G,21.7,Shift and Add Spikes,False,True
+sn1999by,5.9,Shift and Add Spikes,False,True
+sn1999by,5.9,None,False,False
+sn2002fb,17.0,Shift and Add Spikes,False,True
+sn2002cf,-5.4,None,False,False
+sn2002es,11.0,Shift and Add Spikes,False,True
+sn1997cn,3.9,Shift Spectrum,False,False
+sn2005ke,6.4,Shift and Add Spikes,False,True
+sn2006H,6.5,None,False,False
+sn91bg,53.3,Shift Spectrum,False,False
+sn1997cn,15.8,None,False,False
+sn1997cn,11.9,Shift and Add Spikes,False,True
+sn1986G,20.7,Shift and Add Spikes,False,True
+sn99by,-4.8,Add Spikes,False,True
+sn1991bg,45.7,Add Spikes,False,True
+sn1998de,2.7,Shift and Add Spikes,False,True
+sn91bg,202.7,Shift and Add Spikes,False,True
+sn1991bg,14.1,Shift Spectrum,False,False
+sn91bg,46.3,Shift Spectrum,False,False
+sn07al,5.038,Shift and Add Spikes,False,True
+sn07ba,8.005,Shift and Add Spikes,False,True
+sn1986G,-2.7,Shift and Add Spikes,False,True
+sn2005ke,6.4,Add Spikes,False,True
+sn1999by,28.9,Shift and Add Spikes,False,True
+sn1997cn,14.0,Add Spikes,False,True
+sn2000cn,10.2,None,False,False
+sn2007ba,3.1,Add Spikes,False,True
+sn91bg,143.0,Shift and Add Spikes,False,True
+sn2002dl,-7.4,Shift and Add Spikes,False,True
+sn2003Y,-6.3,Shift Spectrum,False,False
+sn99by,-2.8,Add Spikes,False,True
+sn1999bh,5.1,Shift and Add Spikes,False,True
+sn03Y,20.552,Shift Spectrum,False,False
+sn2007al,10.2,Shift Spectrum,False,False
+sn1999by,28.9,Shift Spectrum,False,False
+sn2007al,10.1,Add Spikes,False,True
+sn1999by,30.9,None,False,False
+sn2005bl,-2.9,Shift and Add Spikes,False,True
+sn91bg,18.9,None,False,False
+sn2006H,16.3,Shift Spectrum,False,False
+sn91bg,117.2,None,False,False
+sn1997cn,15.8,Add Spikes,False,True
+sn1986G,31.7,Shift and Add Spikes,False,True
+sn06ke,8.43,Add Spikes,False,True
+sn1999by,28.9,Add Spikes,False,True
+sn2006H,16.3,Shift Spectrum,False,False
+sn2006hb,30.3,Add Spikes,False,True
+sn1986G,102.6,Shift Spectrum,False,False
+sn03Y,-2.819,Shift and Add Spikes,False,True
+sn1986G,55.7,Shift and Add Spikes,False,True
+sn1986G,0.3,None,False,False
+sn2006hb,9.7,Add Spikes,False,True
+sn1991bg,53.9,Shift Spectrum,False,False
+sn2007ax,1.1,Add Spikes,False,True
+sn2005ke,2.4,None,False,False
+sn1991bg,0.9,Add Spikes,False,True
+sn2005bl,12.6,None,False,False
+sn1991bg,87.5,None,False,False
+sn2000cn,8.3,Add Spikes,False,True
+sn1999by,5.9,Shift Spectrum,False,False
+sn2005bl,32.2,Shift and Add Spikes,False,True
+sn2007ax,-1.9,Add Spikes,False,True
+sn2006bz,-0.3,Add Spikes,False,True
+sn1991bg,19.6,Shift Spectrum,False,False
+sn1991bg,116.6,Shift Spectrum,False,False
+sn2006H,16.3,None,False,False
+sn99by,5.2,Shift and Add Spikes,False,True
+sn2000cn,-9.3,Shift Spectrum,False,False
+sn1997cn,21.7,None,False,False
+sn2000cn,10.2,None,False,False
+sn1991bg,52.9,Shift Spectrum,False,False
+sn1991bg,32.1,None,False,False
+sn2002fb,22.9,Shift Spectrum,False,False
+sn2002fb,-4.5,Add Spikes,False,True
+sn1998de,-3.2,Add Spikes,False,True
+sn1997cn,21.7,None,False,False
+sn1999by,-5.0,Shift and Add Spikes,False,True
+sn2005ke,13.4,None,False,False
+sn1997cn,15.0,Add Spikes,False,True
+sn2006hb,30.3,Add Spikes,False,True
+sn1999by,28.9,Add Spikes,False,True
+sn2002fb,0.3,Shift Spectrum,False,False
+sn99by,33.1,Shift and Add Spikes,False,True
+sn1991bg,142.4,Shift and Add Spikes,False,True
+sn2005bl,22.3,Shift Spectrum,False,False
+sn2006H,6.5,Shift and Add Spikes,False,True
+sn1998de,-2.2,Add Spikes,False,True
+sn2002fb,26.8,None,False,False
+sn2006H,17.3,Shift Spectrum,False,False
+sn1991bg,18.3,None,False,False
+sn1999by,5.0,None,False,False
+sn2000cn,-8.3,Shift Spectrum,False,False
+sn2005bl,-2.9,Add Spikes,False,True
+sn91bg,46.3,Add Spikes,False,True
+sn1991bg,45.9,Shift and Add Spikes,False,True
+sn91bg,48.209,Shift and Add Spikes,False,True
+sn91bg,54.5,None,False,False
+sn2002dl,-8.4,None,False,False
+sn06cs,2.408,None,False,False
+sn2002fb,22.9,None,False,False
+sn2006H,15.3,Add Spikes,False,True
+sn1991bg,116.6,Shift and Add Spikes,False,True
+sn1986G,21.7,Shift Spectrum,False,False
+sn2000cn,12.2,Shift and Add Spikes,False,True
+sn2006H,5.5,None,False,False
+sn91bg,117.2,Shift Spectrum,False,False
+sn2005bl,22.3,Shift Spectrum,False,False
+sn2006H,19.4,Shift and Add Spikes,False,True
+sn2006bz,-1.4,Shift and Add Spikes,False,True
+sn1991bg,33.1,Shift and Add Spikes,False,True
+sn2006H,7.5,Add Spikes,False,True
+sn99da,36.907,None,False,False
+sn2007al,4.3,Shift and Add Spikes,False,True
+sn1986G,-0.2,Shift Spectrum,False,False
+sn2007al,5.3,Add Spikes,False,True
+sn1991bg,45.7,None,False,False
+sn07ba,5.122,Shift and Add Spikes,False,True
+sn99by,182.257,Add Spikes,False,True
+sn99by,-2.8,Shift and Add Spikes,False,True
+sn91bg,2.5,Shift and Add Spikes,False,True
+sn2000cx,114.5,Add Spikes,False,True
+snls03D3bb,2.0,Shift and Add Spikes,False,True
+sn2000cx,40.4,None,False,False
+sn2000cx,30.5,Shift Spectrum,False,False
+sn2007if,6.6,Shift Spectrum,False,False
+sn00cx,71.0,Shift and Add Spikes,False,True
+sn2007if,6.1,None,False,False
+sn2000cx,92.0,Shift Spectrum,False,False
+sn2000cx,92.7,Shift and Add Spikes,False,True
+sn2006gz,11.1,Shift and Add Spikes,False,True
+sn2005cc,19.4,Shift Spectrum,False,False
+sn2007if,118.9,Shift Spectrum,False,False
+sn2008ae,-1.0,None,False,False
+sn2007if,-7.5,Shift and Add Spikes,False,True
+sn2006gz,-9.3,None,False,False
+sn2006gz,8.2,Shift and Add Spikes,False,True
+sn2007if,-2.9,Add Spikes,False,True
+sn2007if,36.1,Shift Spectrum,False,False
+sn2000cx,95.9,Shift Spectrum,False,False
+sn2000cx,180.9,Shift and Add Spikes,False,True
+sn2007if,28.0,Shift Spectrum,False,False
+sn2007if,33.3,Add Spikes,False,True
+sn00cx,1.6,None,False,False
+sn2006gz,11.1,Add Spikes,False,True
+sn2000cx,0.7,None,False,False
+sn2000cx,-1.3,Shift and Add Spikes,False,True
+sn2007if,41.9,Shift Spectrum,False,False
+sn2006gz,7.3,Shift Spectrum,False,False
+sn00cx,26.4,Shift Spectrum,False,False
+sn00cx,71.0,Add Spikes,False,True
+sn2000cx,13.6,Add Spikes,False,True
+sn2000cx,60.2,Shift and Add Spikes,False,True
+sn2007if,61.4,Add Spikes,False,True
+sn2000cx,-2.3,Shift Spectrum,False,False
+sn2000cx,67.0,Add Spikes,False,True
+sn2006gz,-12.3,None,False,False
+sn2000cx,141.3,Shift and Add Spikes,False,True
+sn00cx,146.4,Shift and Add Spikes,False,True
+sn00cx,96.8,Shift Spectrum,False,False
+sn2007if,34.4,Add Spikes,False,True
+sn00cx,61.1,Shift Spectrum,False,False
+sn2000cx,60.2,None,False,False
+sn2007if,6.6,Add Spikes,False,True
+sn2007if,9.4,None,False,False
+sn00cx,26.4,Shift and Add Spikes,False,True
+sn2008ae,1.9,Shift and Add Spikes,False,True
+sn2006gz,-13.3,Shift Spectrum,False,False
+sn2007if,39.1,None,False,False
+sn00cx,1.6,Shift Spectrum,False,False
+sn2007if,13.9,Shift Spectrum,False,False
+sn2000cx,23.5,Shift and Add Spikes,False,True
+sn2000cx,180.9,Shift and Add Spikes,False,True
+sn2007if,34.4,None,False,False
+sn2000cx,180.9,Add Spikes,False,True
+sn2000cx,4.7,Add Spikes,False,True
+sn2000cx,18.6,Add Spikes,False,True
+sn00cx,19.4,Add Spikes,False,True
+sn00cx,0.6,None,False,False
+sn2000cx,25.5,Shift and Add Spikes,False,True
+sn2008ae,2.8,Shift Spectrum,False,False
+sn2000cx,25.5,Shift and Add Spikes,False,True
+sn00cx,19.4,Shift and Add Spikes,False,True
+sn2007if,5.6,Shift Spectrum,False,False
+sn2007if,-6.6,None,False,False
+sn2000cx,23.5,None,False,False
+sn00cx,28.4,Shift Spectrum,False,False
+sn2000cx,10.6,Shift and Add Spikes,False,True
+sn2000cx,55.2,Shift and Add Spikes,False,True
+sn2000cx,114.5,None,False,False
+sn2000cx,124.4,Shift Spectrum,False,False
+sn2007if,51.2,Shift Spectrum,False,False
+sn2000cx,6.6,Shift Spectrum,False,False
+sn00cx,146.4,Add Spikes,False,True
+sn2006gz,-13.3,None,False,False
+sn00cx,41.3,Add Spikes,False,True
+sn00cx,26.4,Add Spikes,False,True
+sn2007if,13.1,Shift and Add Spikes,False,True
+sn2007if,33.3,Shift and Add Spikes,False,True
+sn2006gz,8.2,Add Spikes,False,True
+snls03D3bb,2.0,Add Spikes,False,True
+sn2006gz,7.3,Add Spikes,False,True
+sn2007if,5.6,Shift and Add Spikes,False,True
+sn2007if,-6.6,Shift and Add Spikes,False,True
+sn2007if,-6.6,Add Spikes,False,True
+sn00cx,5.6,Shift Spectrum,False,False
+sn2008ae,-0.1,Shift Spectrum,False,False
+sn2007if,-7.5,Shift and Add Spikes,False,True
+sn00cx,14.5,Shift Spectrum,False,False
+sn2000cx,-0.3,None,False,False
+sn2000cx,25.5,Shift and Add Spikes,False,True
+sn00cx,61.1,Shift Spectrum,False,False
+sn2007if,118.9,Shift Spectrum,False,False
+sn2000cx,10.6,Shift and Add Spikes,False,True
+sn00cx,7.5,Add Spikes,False,True
+sn2000cx,-3.3,Shift and Add Spikes,False,True
+sn2000cx,29.5,Add Spikes,False,True
+sn2000cx,-1.3,Add Spikes,False,True
+sn2007if,34.4,Add Spikes,False,True
+sn2000cx,4.7,Shift Spectrum,False,False
+sn2005cc,3.6,Add Spikes,False,True
+sn00cx,146.4,Shift and Add Spikes,False,True
+sn2008ae,1.9,Add Spikes,False,True
+sn2007if,48.4,Shift and Add Spikes,False,True
+sn2000cx,124.4,Add Spikes,False,True
+sn2007if,23.3,None,False,False
+sn2007if,23.3,None,False,False
+sn2000cx,30.5,Shift Spectrum,False,False
+sn00cx,41.3,Add Spikes,False,True
+sn2008ae,-0.1,Shift Spectrum,False,False
+sn2000cx,67.0,Shift and Add Spikes,False,True
+sn2000cx,5.7,Shift Spectrum,False,False
+sn2007if,34.4,Add Spikes,False,True
+sn2007if,36.3,Shift Spectrum,False,False
+sn2007if,-9.2,Add Spikes,False,True
+sn2006gz,-13.3,Shift and Add Spikes,False,True
+sn2006gz,-8.4,Add Spikes,False,True
+sn2007if,36.1,None,False,False
+sn2000cx,6.6,Add Spikes,False,True
+sn2007if,-9.2,Add Spikes,False,True
+sn2000cx,53.2,Shift and Add Spikes,False,True
+sn00cx,41.3,Add Spikes,False,True
+sn2000cx,-1.3,Shift and Add Spikes,False,True
+sn2000cx,154.1,Shift Spectrum,False,False
+sn2007if,-7.5,Shift Spectrum,False,False
+sn2007if,24.0,Add Spikes,False,True
+sn2000cx,95.9,None,False,False
+sn2008ae,0.9,Add Spikes,False,True
+sn2005cc,14.7,Add Spikes,False,True
+sn2000cx,10.6,None,False,False
+sn00cx,14.5,Shift Spectrum,False,False
+sn2006gz,-4.5,Add Spikes,False,True
+sn2005cc,9.5,Add Spikes,False,True
+sn00cx,41.3,Shift and Add Spikes,False,True
+sn2005cc,3.6,Shift and Add Spikes,False,True
+sn2005cc,2.6,None,False,False
+sn00cx,-2.4,Shift and Add Spikes,False,True
+sn2000cx,-3.3,Shift and Add Spikes,False,True
+sn00cx,24.4,None,False,False
+sn2006gz,9.2,Shift and Add Spikes,False,True
+sn00cx,5.6,Shift Spectrum,False,False
+sn2000cx,95.9,None,False,False
+snls03D3bb,2.0,Shift and Add Spikes,False,True
+sn2008ae,2.8,Shift and Add Spikes,False,True
+sn00cx,22.4,None,False,False
+sn2007if,24.0,Shift Spectrum,False,False
+sn2000cx,4.7,None,False,False
+sn00cx,92.9,Add Spikes,False,True
+sn00cx,1.6,None,False,False
+sn2008ae,-0.1,Shift and Add Spikes,False,True
+sn2005cc,3.6,Shift and Add Spikes,False,True
+sn00cx,124.6,Add Spikes,False,True
+sn2000cx,0.7,None,False,False
+sn2005cc,4.6,None,False,False
+sn2007if,13.1,Shift Spectrum,False,False
+sn2006gz,-11.3,None,False,False
+sn00cx,28.4,None,False,False
+sn2000cx,21.5,Shift and Add Spikes,False,True
+sn2007if,43.8,Add Spikes,False,True
+sn2000cx,21.5,Add Spikes,False,True
+sn2007if,-9.2,Shift Spectrum,False,False
+snls03D3bb,2.0,Shift Spectrum,False,False
+sn2000cx,359.6,Shift and Add Spikes,False,True
+sn2006gz,-4.5,None,False,False
+sn2000cx,359.6,Shift Spectrum,False,False
+sn2006gz,-4.5,None,False,False
+sn2000cx,13.6,None,False,False
+sn00cx,9.5,Add Spikes,False,True
+sn2000cx,10.6,Shift and Add Spikes,False,True
+sn00cx,96.8,Shift and Add Spikes,False,True
+sn2007if,62.3,Shift Spectrum,False,False
+sn2007if,43.8,Add Spikes,False,True
+sn2007if,43.8,None,False,False
+sn2000cx,36.3,Shift and Add Spikes,False,True
+sn00cx,-2.4,Add Spikes,False,True
+sn2008ae,1.9,Shift Spectrum,False,False
+sn2008ae,2.8,Shift Spectrum,False,False
+sn2000cx,5.7,None,False,False
+sn00cx,14.5,Shift Spectrum,False,False
+sn2007if,33.3,Shift and Add Spikes,False,True
+sn2000cx,92.7,None,False,False
+sn2000cx,18.6,Shift and Add Spikes,False,True
+sn2006gz,-11.3,None,False,False
+sn2006gz,8.2,Shift and Add Spikes,False,True
+sn00cx,-0.4,Add Spikes,False,True
+sn2000cx,21.5,Add Spikes,False,True
+sn2006gz,9.2,None,False,False
+sn2005cc,4.6,Shift Spectrum,False,False
+sn00cx,124.6,Add Spikes,False,True
+sn2000cx,141.3,Shift and Add Spikes,False,True
+sn2006gz,6.2,Add Spikes,False,True
+sn2007if,10.3,None,False,False
+sn2000cx,154.1,Add Spikes,False,True
+sn2000cx,5.7,Shift Spectrum,False,False
+sn2005cc,41.3,Shift and Add Spikes,False,True
+sn00cx,7.5,Shift and Add Spikes,False,True
+sn2000cx,6.6,Shift Spectrum,False,False
+sn2005cc,5.6,Shift Spectrum,False,False
+sn2005cc,17.4,Add Spikes,False,True
+sn2000cx,145.5,None,False,False
+sn2007if,56.7,Shift and Add Spikes,False,True
+sn2000cx,-0.3,None,False,False
+sn2007if,-6.6,None,False,False
+sn2008ae,2.8,Shift and Add Spikes,False,True
+sn2007if,51.2,None,False,False
+sn2005cc,9.5,Add Spikes,False,True
+sn2006gz,8.2,Shift and Add Spikes,False,True
+sn2007if,24.0,Shift and Add Spikes,False,True
+sn2007if,43.8,Add Spikes,False,True
+sn2000cx,37.3,Add Spikes,False,True
+sn2006gz,-11.3,Add Spikes,False,True
+sn2000cx,55.2,Shift Spectrum,False,False
+sn2000cx,92.7,None,False,False
+sn2000cx,-4.3,None,False,False
+sn00cx,71.0,Shift and Add Spikes,False,True
+sn2007if,4.7,None,False,False
+sn00cx,-1.4,Shift and Add Spikes,False,True
+sn00cx,-2.4,None,False,False
+sn00cx,6.5,Shift and Add Spikes,False,True
+sn2007if,34.4,Add Spikes,False,True
+sn2000cx,25.5,Shift and Add Spikes,False,True
+sn2006gz,-13.3,Shift Spectrum,False,False
+sn2007if,9.4,Shift and Add Spikes,False,True
+sn2007if,6.1,Add Spikes,False,True
+sn00cx,71.0,None,False,False
+sn2006gz,11.1,Shift Spectrum,False,False
+sn2000cx,-4.3,Shift and Add Spikes,False,True
+sn2000cx,-1.3,None,False,False
+sn2000cx,67.0,Shift and Add Spikes,False,True
+sn2007if,36.3,Shift and Add Spikes,False,True
+sn2005cc,41.3,None,False,False
+sn2000cx,23.5,Shift Spectrum,False,False
+sn2000cx,67.0,None,False,False
+sn2000cx,0.7,Shift Spectrum,False,False
+sn2000cx,359.6,Add Spikes,False,True
+sn2000cx,92.0,Shift Spectrum,False,False
+sn00cx,11.5,Add Spikes,False,True
+sn2006gz,8.2,Shift Spectrum,False,False
+sn2005cc,41.3,Add Spikes,False,True
+sn2005cc,19.4,Shift and Add Spikes,False,True
+sn00cx,22.4,Add Spikes,False,True
+sn2000cx,36.3,Shift and Add Spikes,False,True
+sn2006gz,-11.3,Shift and Add Spikes,False,True
+sn2007if,15.7,Shift Spectrum,False,False
+sn2006gz,-12.3,Shift and Add Spikes,False,True
+sn2000cx,13.6,None,False,False
+sn2000cx,92.7,Shift and Add Spikes,False,True
+sn00cx,19.4,None,False,False
+sn2000cx,-1.3,Shift Spectrum,False,False
+sn2000cx,359.6,Shift Spectrum,False,False
+sn00cx,28.4,None,False,False
+sn2007if,9.4,Add Spikes,False,True
+sn2006gz,-12.3,Shift and Add Spikes,False,True
+sn2000cx,70.1,Shift and Add Spikes,False,True
+sn2000cx,-2.3,Shift Spectrum,False,False
+sn2000cx,8.6,None,False,False
+sn2006gz,10.2,None,False,False
+sn2006gz,-12.3,Shift Spectrum,False,False
+sn2000cx,145.5,None,False,False
+sn2000cx,92.7,Add Spikes,False,True
+sn2007if,62.3,Shift Spectrum,False,False
+sn2006gz,5.3,Add Spikes,False,True
+sn00cx,41.3,Add Spikes,False,True
+sn2008ae,0.9,None,False,False
+sn2007if,-7.5,Shift Spectrum,False,False
+sn2007if,6.1,Shift and Add Spikes,False,True
+sn2008ae,1.9,None,False,False
+sn2000cx,67.0,Shift Spectrum,False,False
+sn2000cx,-4.3,None,False,False
+sn2005cc,41.3,Shift Spectrum,False,False
+sn2007if,56.7,Shift Spectrum,False,False
+sn2007if,9.4,Shift and Add Spikes,False,True
+sn2005cc,30.4,Shift and Add Spikes,False,True
+sn2006gz,-9.3,Shift and Add Spikes,False,True
+sn00cx,9.5,Shift and Add Spikes,False,True
+sn2007if,-6.6,Add Spikes,False,True
+sn2000cx,0.7,Shift Spectrum,False,False
+sn2000cx,124.4,Add Spikes,False,True
+sn00cx,11.5,Shift and Add Spikes,False,True
+sn2000cx,118.5,Shift Spectrum,False,False
+sn00cx,41.3,Add Spikes,False,True
+sn2008ae,1.9,Shift and Add Spikes,False,True
+sn00cx,22.4,None,False,False
+sn2006gz,6.2,Shift and Add Spikes,False,True
+sn2006gz,7.3,Shift and Add Spikes,False,True
+sn2006gz,-8.4,Shift and Add Spikes,False,True
+sn00cx,30.4,None,False,False
+sn2000cx,6.6,None,False,False
+sn2008ae,1.9,Add Spikes,False,True
+sn2008ae,-1.0,None,False,False
+sn00cx,30.4,Shift Spectrum,False,False
+sn2006gz,-11.3,Shift Spectrum,False,False
+sn2000cx,-2.3,None,False,False
+sn2007if,15.7,Add Spikes,False,True
+sn2000cx,92.0,Add Spikes,False,True
+sn00cx,22.4,Shift Spectrum,False,False
+sn2006gz,5.3,Add Spikes,False,True
+sn00cx,22.4,Shift and Add Spikes,False,True
+sn2000cx,124.4,Shift Spectrum,False,False
+sn2007if,9.4,None,False,False
+sn2000cx,-1.3,Add Spikes,False,True
+sn2000cx,-2.3,Add Spikes,False,True
+sn2007if,-2.9,Add Spikes,False,True
+sn2006gz,6.2,None,False,False
+sn00cx,146.4,Shift and Add Spikes,False,True
+sn2000cx,13.6,Shift and Add Spikes,False,True
+sn00cx,30.4,Add Spikes,False,True
+sn2007if,15.9,Add Spikes,False,True
+sn2000cx,8.6,Add Spikes,False,True
+sn00cx,-0.4,Shift Spectrum,False,False
+sn2000cx,5.7,Add Spikes,False,True
+sn2008ae,-0.1,Shift and Add Spikes,False,True
+sn2007if,62.3,None,False,False
+sn2005cc,30.4,Add Spikes,False,True
+sn2007if,36.1,Add Spikes,False,True
+sn2007if,10.3,None,False,False
+sn2008ae,-0.1,Shift and Add Spikes,False,True
+sn00cx,7.5,Add Spikes,False,True
+sn2000cx,114.5,Shift and Add Spikes,False,True
+sn2000cx,55.2,Shift Spectrum,False,False
+sn2000cx,-0.4,Shift and Add Spikes,False,True
+sn2007if,-9.2,None,False,False
+sn2000cx,10.6,Add Spikes,False,True
+sn2000cx,5.7,Shift and Add Spikes,False,True
+sn2000cx,39.3,None,False,False
+sn00cx,6.5,None,False,False
+sn2007if,33.4,Shift and Add Spikes,False,True
+sn00cx,61.1,Shift and Add Spikes,False,True
+sn2006gz,-13.3,Shift and Add Spikes,False,True
+sn2000cx,23.5,Shift and Add Spikes,False,True
+sn00cx,9.5,Shift Spectrum,False,False
+sn2007if,51.2,Shift Spectrum,False,False
+sn2000cx,359.6,Add Spikes,False,True
+sn00cx,9.5,Shift and Add Spikes,False,True
+sn2007if,-6.6,None,False,False
+sn2007if,56.7,Add Spikes,False,True
+sn00cx,1.6,Add Spikes,False,True
+sn02cx,53.3,None,False,False
+sn2005hk,14.4,Add Spikes,False,True
+sn2002cx,19.1,Add Spikes,False,True
+sn2008A,-7.9,Add Spikes,False,True
+sn2005hk,-8.3,None,False,False
+sn2008A,-1.0,Shift and Add Spikes,False,True
+sn2005hk,65.5,Add Spikes,False,True
+sn2002cx,-1.4,None,False,False
+sn2005hk,42.9,Shift and Add Spikes,False,True
+sn2005hk,-6.3,Shift and Add Spikes,False,True
+sn2005hk,-2.4,Add Spikes,False,True
+sn2005hk,39.0,Add Spikes,False,True
+sn02cx,18.2,Shift and Add Spikes,False,True
+sn05hk,-5.2,None,False,False
+sn2005hk,20.3,Shift and Add Spikes,False,True
+sn2002cx,-4.3,Shift and Add Spikes,False,True
+sn02cx,-2.4,Shift and Add Spikes,False,True
+sn2005hk,27.2,Add Spikes,False,True
+sn02cx,-5.3,None,False,False
+sn08A,0.791,Shift Spectrum,False,False
+sn2002cx,25.0,Add Spikes,False,True
+sn2008A,18.7,None,False,False
+sn05hk,21.872,Shift and Add Spikes,False,True
+sn02cx,10.3,Shift and Add Spikes,False,True
+sn08A,0.791,Shift Spectrum,False,False
+sn2005hk,37.0,None,False,False
+sn2005hk,23.2,Add Spikes,False,True
+sn2005hk,-4.3,Shift Spectrum,False,False
+sn2002cx,24.0,Add Spikes,False,True
+sn2005hk,-6.3,Shift and Add Spikes,False,True
+sn2005hk,23.4,Shift Spectrum,False,False
+sn2005hk,-4.2,None,False,False
+sn08A,0.791,None,False,False
+sn2005hk,20.3,Shift and Add Spikes,False,True
+sn2008A,-7.9,Shift and Add Spikes,False,True
+sn2005hk,-6.3,Shift and Add Spikes,False,True
+sn2002cx,-4.3,Shift and Add Spikes,False,True
+sn05hk,50.959,Shift and Add Spikes,False,True
+sn2008A,-7.9,Shift Spectrum,False,False
+sn02cx,-2.4,Shift Spectrum,False,False
+sn2005hk,-9.3,Add Spikes,False,True
+sn2008A,-7.9,Add Spikes,False,True
+sn2005hk,-2.4,Shift Spectrum,False,False
+sn2005hk,26.4,Shift Spectrum,False,False
+sn2005hk,65.5,None,False,False
+sn2008A,1.0,Shift and Add Spikes,False,True
+sn02cx,18.2,Add Spikes,False,True
+sn2002cx,11.3,Shift and Add Spikes,False,True
+sn2005hk,-7.3,Shift Spectrum,False,False
+sn2005hk,53.8,None,False,False
+sn2008A,43.3,None,False,False
+sn2005hk,-8.3,Shift and Add Spikes,False,True
+sn2005hk,-5.3,Shift and Add Spikes,False,True
+sn2008A,20.6,Add Spikes,False,True
+sn02cx,18.2,Shift Spectrum,False,False
+sn2005hk,-8.3,None,False,False
+sn2005hk,53.8,Add Spikes,False,True
+sn2005hk,-4.2,Shift Spectrum,False,False
+sn2002cx,19.1,Add Spikes,False,True
+sn2005hk,-6.3,None,False,False
+sn2008A,-3.0,Shift Spectrum,False,False
+sn03gq,57.959,Add Spikes,False,True
+sn2002cx,-4.3,None,False,False
+sn2008A,-1.9,Shift and Add Spikes,False,True
+sn2005hk,23.4,None,False,False
+sn2005hk,3.6,Shift and Add Spikes,False,True
+sn2005hk,-4.3,Add Spikes,False,True
+sn2005hk,14.3,None,False,False
+sn2005hk,-4.3,None,False,False
+sn03gq,57.959,Add Spikes,False,True
+sn2008A,-1.0,Add Spikes,False,True
+sn2002cx,15.2,Shift Spectrum,False,False
+sn02cx,53.3,Shift and Add Spikes,False,True
+sn05hk,21.872,Add Spikes,False,True
+sn02cx,-2.4,Add Spikes,False,True
+sn2008A,-3.9,Shift Spectrum,False,False
+sn2002cx,11.3,Shift Spectrum,False,False
+sn2008A,-6.9,None,False,False
+sn2008A,-1.9,Add Spikes,False,True
+sn2005hk,65.5,Shift and Add Spikes,False,True
+sn2005hk,-4.2,None,False,False
+sn02cx,10.3,Shift and Add Spikes,False,True
+sn2002cx,25.0,None,False,False
+sn2002cx,-1.4,Shift Spectrum,False,False
+sn2005hk,-4.2,Shift and Add Spikes,False,True
+sn2005hk,-4.3,Shift and Add Spikes,False,True
+sn2002cx,19.1,Shift and Add Spikes,False,True
+sn2005hk,26.4,None,False,False
+sn2005hk,37.0,None,False,False
+sn2008A,27.5,Shift and Add Spikes,False,True
+sn2008A,-1.9,None,False,False
+sn2005hk,3.6,Shift Spectrum,False,False
+sn2008A,0.0,None,False,False
+sn2008A,-3.9,Add Spikes,False,True
+sn2008A,-7.9,Add Spikes,False,True
+sn2008A,-6.9,Shift Spectrum,False,False
+sn2005hk,-1.4,Shift Spectrum,False,False
+sn2005hk,23.2,None,False,False
+sn2005hk,-6.3,Shift and Add Spikes,False,True
+sn2005hk,-8.3,Add Spikes,False,True
+sn2008A,-3.9,None,False,False
+sn2005hk,-7.3,None,False,False
+sn2008A,-3.0,Shift and Add Spikes,False,True
+sn2008A,0.0,None,False,False
+sn2005hk,-5.1,None,False,False
+sn2005hk,23.2,Add Spikes,False,True
+sn2005hk,65.5,Shift and Add Spikes,False,True
+sn03gq,57.959,Shift Spectrum,False,False
+sn2008A,18.7,None,False,False
+sn2005hk,-1.4,None,False,False
+sn2005hk,12.4,Shift Spectrum,False,False
+sn2005hk,-7.3,None,False,False
+sn2005hk,12.4,Shift Spectrum,False,False
+sn2002cx,25.0,Shift and Add Spikes,False,True
+sn2005hk,-6.3,None,False,False
+sn2005hk,-7.3,Shift and Add Spikes,False,True
+sn2005hk,23.4,Add Spikes,False,True
+sn2005hk,-8.3,Shift Spectrum,False,False
+sn2008A,27.5,Add Spikes,False,True
+sn2005hk,42.0,Add Spikes,False,True
+sn2008A,-7.9,Shift and Add Spikes,False,True
+sn2005hk,-7.3,Shift and Add Spikes,False,True
+sn2002cx,54.3,None,False,False
+sn2008A,-3.0,None,False,False
+sn2008A,-1.0,Shift Spectrum,False,False
+sn03gq,57.959,Add Spikes,False,True
+sn2008A,23.6,Add Spikes,False,True
+sn02cx,-2.4,Shift and Add Spikes,False,True
+sn2005hk,12.4,Shift and Add Spikes,False,True
+sn2008A,-1.0,Shift Spectrum,False,False
+sn2005hk,-5.1,None,False,False
+sn2002cx,11.3,Add Spikes,False,True
+sn02cx,-2.4,None,False,False
+sn2005hk,-7.3,Shift Spectrum,False,False
+sn02cx,14.2,None,False,False
+sn2002cx,25.0,None,False,False
+sn2005hk,42.9,Add Spikes,False,True
+sn2005hk,-6.3,Shift and Add Spikes,False,True
+sn02cx,24.1,Shift Spectrum,False,False
+sn2002cx,-4.3,Shift and Add Spikes,False,True
+sn02cx,-2.4,None,False,False
+sn2005hk,-4.2,Add Spikes,False,True
+sn2008A,20.6,Add Spikes,False,True
+sn2002cx,24.0,Add Spikes,False,True
+sn2008A,-6.9,Shift and Add Spikes,False,True
+sn02cx,10.3,None,False,False
+sn2008A,27.5,Shift Spectrum,False,False
+sn2005hk,-5.3,Add Spikes,False,True
+sn2005hk,-6.3,None,False,False
+sn2008A,1.0,Add Spikes,False,True
+sn02cx,-2.4,Shift and Add Spikes,False,True
+sn2008A,-7.9,Add Spikes,False,True
+sn2005hk,-7.3,Add Spikes,False,True
+sn05hk,50.959,Shift Spectrum,False,False
+sn2005hk,-2.4,Shift Spectrum,False,False
+sn2002cx,11.3,Add Spikes,False,True
+sn2005hk,-4.2,Shift Spectrum,False,False
+sn2008A,-1.9,Shift and Add Spikes,False,True
+sn2008A,1.0,None,False,False
+sn02cx,23.0,Add Spikes,False,True
+sn2005hk,-3.4,None,False,False
+sn2002cx,15.2,None,False,False
+sn2005hk,-8.3,Shift Spectrum,False,False
+sn02cx,24.1,None,False,False
+sn2005hk,27.2,None,False,False
+sn2005hk,-7.3,Add Spikes,False,True
+sn2005hk,14.3,Shift and Add Spikes,False,True
+sn2005hk,23.4,Shift and Add Spikes,False,True
+sn2008A,-3.0,None,False,False
+sn02cx,10.3,Shift and Add Spikes,False,True
+sn03gq,57.959,None,False,False
+sn2008A,31.5,None,False,False
+sn2005hk,37.0,None,False,False
+sn2008A,-3.9,None,False,False
+sn2002cx,11.3,Add Spikes,False,True
+sn2008A,-1.9,Add Spikes,False,True
+sn2005hk,53.8,None,False,False
+sn2005hk,23.2,Shift Spectrum,False,False
+sn2005hk,-2.4,Shift and Add Spikes,False,True
+sn2002cx,-1.4,Shift and Add Spikes,False,True
+sn08A,0.791,Shift and Add Spikes,False,True
+sn05hk,23.398,Shift Spectrum,False,False
+sn2005hk,-4.2,Add Spikes,False,True
+sn2005hk,23.2,Shift Spectrum,False,False
+sn2002cx,11.3,Shift and Add Spikes,False,True
+sn02cx,24.1,Shift Spectrum,False,False
+sn2005hk,-5.3,None,False,False
+sn2005hk,53.8,Shift and Add Spikes,False,True
+sn2008A,20.6,Shift Spectrum,False,False
+sn2002cx,11.3,Shift Spectrum,False,False
+sn2002cx,24.0,Add Spikes,False,True
+sn2005hk,42.0,Shift and Add Spikes,False,True
+sn2008A,-1.0,Add Spikes,False,True
+sn2005hk,42.9,Shift Spectrum,False,False
+sn2002cx,-1.4,Shift and Add Spikes,False,True
+sn2005hk,-1.4,None,False,False
+sn2008A,20.6,Add Spikes,False,True
+sn2008A,-3.0,Shift Spectrum,False,False
+sn2005hk,-4.3,Add Spikes,False,True
+sn2005hk,-2.4,Shift and Add Spikes,False,True
+sn08A,0.791,Shift and Add Spikes,False,True
+sn2005hk,37.0,Shift and Add Spikes,False,True
+sn2008A,20.6,None,False,False
+sn2005hk,-6.3,Shift Spectrum,False,False
+sn2008A,27.5,Add Spikes,False,True
+sn2005hk,-5.1,None,False,False
+sn02cx,-2.4,Shift and Add Spikes,False,True
+sn2005hk,-4.2,Add Spikes,False,True
+sn02cx,-5.3,Shift and Add Spikes,False,True
+sn2008A,-1.9,None,False,False
+sn02cx,-2.4,Shift and Add Spikes,False,True
+sn2008A,31.5,Shift Spectrum,False,False
+sn2005hk,65.5,Shift Spectrum,False,False
+sn2002cx,25.0,Add Spikes,False,True
+sn2002cx,54.3,Add Spikes,False,True
+sn2002cx,11.3,Shift and Add Spikes,False,True
+sn02cx,18.2,Shift Spectrum,False,False
+sn02cx,-5.3,None,False,False
+sn2005hk,-3.3,Shift Spectrum,False,False
+sn2008A,0.0,Shift and Add Spikes,False,True
+sn2008A,1.0,Add Spikes,False,True
+sn2005hk,-5.1,Shift Spectrum,False,False
+sn02cx,10.3,Add Spikes,False,True
+sn2008A,20.6,Add Spikes,False,True
+sn2005hk,23.2,None,False,False
+sn2008A,-6.9,None,False,False
+sn2002cx,15.2,None,False,False
+sn02cx,14.2,Add Spikes,False,True
+sn2005hk,53.8,Add Spikes,False,True
+sn2005hk,-9.3,Add Spikes,False,True
+sn2005hk,20.3,None,False,False
+sn2002cx,15.2,Shift and Add Spikes,False,True
+sn2005hk,23.4,Add Spikes,False,True
+sn2005hk,65.5,Add Spikes,False,True
+sn05hk,-5.2,Shift and Add Spikes,False,True
+sn2002cx,25.0,Shift Spectrum,False,False
+sn2008A,1.0,Add Spikes,False,True
+sn2005hk,-5.3,None,False,False
+sn2005hk,-5.3,Add Spikes,False,True
+sn2002cx,11.3,Shift and Add Spikes,False,True
+sn05hk,-5.2,Add Spikes,False,True
+sn02cx,18.2,Add Spikes,False,True
+sn02cx,10.3,Shift Spectrum,False,False
+sn2005hk,-4.2,Add Spikes,False,True
+sn2005hk,-2.4,Shift and Add Spikes,False,True
+sn2005hk,53.8,Add Spikes,False,True
+sn2005hk,-2.4,Shift Spectrum,False,False
+sn2008A,-6.9,Add Spikes,False,True
+sn2002cx,24.0,Shift Spectrum,False,False
+sn02cx,24.1,None,False,False
+sn2005hk,-6.3,None,False,False
+sn2008A,-1.9,Shift Spectrum,False,False
+sn02cx,-5.3,Shift and Add Spikes,False,True
+sn2005hk,14.4,Shift and Add Spikes,False,True
+sn05hk,23.398,Shift and Add Spikes,False,True
+sn02cx,14.2,Shift and Add Spikes,False,True
+sn2005hk,23.2,Shift Spectrum,False,False
+sn2002cx,25.0,Add Spikes,False,True
+sn2005hk,14.3,None,False,False
+sn02cx,53.3,Shift Spectrum,False,False
+sn2008A,-3.9,Shift Spectrum,False,False
+sn2008A,0.0,Add Spikes,False,True
+sn2002cx,-4.3,Shift Spectrum,False,False
+sn02cx,53.3,Shift Spectrum,False,False
+sn08A,0.791,Shift Spectrum,False,False
+sn2005hk,-9.3,Shift and Add Spikes,False,True
+sn05hk,-5.2,Add Spikes,False,True
+sn2005hk,-7.3,None,False,False
+sn2008A,43.3,Add Spikes,False,True
+sn2005hk,-1.4,Shift and Add Spikes,False,True
+sn2005hk,-6.3,Shift and Add Spikes,False,True
+sn2002cx,11.3,Shift and Add Spikes,False,True
+sn02cx,23.0,Add Spikes,False,True
+sn2005hk,-7.3,Shift and Add Spikes,False,True
+sn2005hk,3.6,Shift Spectrum,False,False
+sn2008A,18.7,Shift Spectrum,False,False
+sn2005hk,37.0,None,False,False
+sn2002cx,-1.4,Shift and Add Spikes,False,True
+sn02cx,-2.4,Add Spikes,False,True
+sn2005hk,-5.1,Add Spikes,False,True
+sn2002cx,25.0,Shift Spectrum,False,False
+sn2002cx,24.0,Shift Spectrum,False,False
+sn2008A,0.0,Shift Spectrum,False,False
+sn2008A,-7.9,Shift Spectrum,False,False
+sn2008A,31.5,Add Spikes,False,True
+sn05hk,-5.2,Add Spikes,False,True
+sn2008A,1.0,Shift Spectrum,False,False
+sn2002cx,-4.3,Shift Spectrum,False,False
+sn2005hk,-2.4,Add Spikes,False,True
+sn05hk,50.959,Shift and Add Spikes,False,True
+sn2005hk,-4.2,Shift and Add Spikes,False,True
+sn2008A,1.0,None,False,False
+sn2008A,-1.9,None,False,False
+sn2005hk,37.0,Add Spikes,False,True
+sn2002cx,15.2,Add Spikes,False,True
+sn05hk,23.398,Shift and Add Spikes,False,True
+sn03gq,57.959,Shift Spectrum,False,False
+sn2008A,-1.0,Shift and Add Spikes,False,True
+sn05hk,23.398,Shift and Add Spikes,False,True
+sn2005hk,42.9,Add Spikes,False,True
+sn02cx,14.2,None,False,False
+sn2002cx,-1.4,Add Spikes,False,True
+sn02cx,53.3,Add Spikes,False,True
+sn02cx,-2.4,Add Spikes,False,True
+sn2005hk,-7.3,Shift Spectrum,False,False
+sn2005hk,-7.3,Add Spikes,False,True
+sn2005hk,14.3,Shift Spectrum,False,False
+sn02cx,24.1,Add Spikes,False,True
+sn05hk,23.398,Shift Spectrum,False,False
+sn2002cx,19.1,None,False,False
+sn2005hk,-7.3,None,False,False
+sn2005hk,-2.4,None,False,False
+sn2005hk,-5.3,Shift and Add Spikes,False,True
+sn2005hk,65.5,None,False,False
+sn2008A,-6.9,Add Spikes,False,True
+sn2008A,0.0,Shift Spectrum,False,False
+sn2005hk,12.4,Add Spikes,False,True
+sn2005hk,26.4,None,False,False
+sn02cx,-5.3,Shift Spectrum,False,False
+sn2005hk,-8.3,Add Spikes,False,True
+sn2005hk,23.2,Shift and Add Spikes,False,True
+sn2008A,1.0,Add Spikes,False,True
+sn08A,0.791,Add Spikes,False,True
+sn2005hk,-7.3,Add Spikes,False,True
+sn2005hk,42.0,None,False,False
+sn2005hk,-6.3,None,False,False
+sn2005hk,27.2,Add Spikes,False,True
+sn2008A,1.0,Add Spikes,False,True
+sn2008A,27.5,None,False,False
+sn2005hk,-1.4,Shift Spectrum,False,False
+sn02cx,23.0,Shift Spectrum,False,False
+sn2005hk,26.4,None,False,False
+sn2005hk,-8.3,None,False,False
+sn2005hk,-8.3,Add Spikes,False,True
+sn2005hk,-2.4,Add Spikes,False,True
+sn2005hk,26.4,Add Spikes,False,True
+sn2008A,27.5,None,False,False
+sn2005hk,-4.2,Add Spikes,False,True
+sn2008A,-1.9,Shift Spectrum,False,False
+sn2008A,-6.9,None,False,False
+sn02cx,24.1,None,False,False
+sn2005hk,23.4,None,False,False
+sn02cx,-5.3,Shift Spectrum,False,False
+sn2005hk,26.4,Shift Spectrum,False,False
+sn05hk,21.872,Shift Spectrum,False,False
+sn2008A,31.5,Shift and Add Spikes,False,True
+sn2005hk,3.6,Add Spikes,False,True
+sn2005hk,-3.3,Shift and Add Spikes,False,True
+sn2005hk,-4.2,Add Spikes,False,True
+sn2005hk,-6.3,Shift Spectrum,False,False
+sn02cx,-2.4,Shift and Add Spikes,False,True
+sn2005hk,-6.3,None,False,False
+sn2005hk,-2.4,Shift Spectrum,False,False
+sn2008A,1.0,Add Spikes,False,True
+sn02cx,53.3,Shift Spectrum,False,False
+sn2008A,-3.0,Shift Spectrum,False,False
+sn2005hk,-6.3,None,False,False
+sn2005hk,42.9,Shift and Add Spikes,False,True
+sn02cx,53.3,None,False,False
+sn2008A,1.0,Shift and Add Spikes,False,True
+sn2005hk,-4.3,Shift and Add Spikes,False,True
+sn2005hk,27.2,None,False,False
+sn05hk,21.872,Shift Spectrum,False,False
+sn02cx,-5.3,None,False,False
+sn2005hk,-9.3,Shift and Add Spikes,False,True
+sn2005hk,12.4,None,False,False
+sn2008A,18.7,Add Spikes,False,True
+sn2008A,1.0,Add Spikes,False,True
+sn2005hk,23.4,Add Spikes,False,True
+sn2005hk,3.6,Add Spikes,False,True
+sn05hk,-5.2,Shift and Add Spikes,False,True
+sn2008A,20.6,None,False,False
+sn2008A,-7.9,Shift and Add Spikes,False,True
+sn03gq,57.959,None,False,False
+sn2005hk,-5.1,None,False,False
+sn2008A,27.5,Add Spikes,False,True
+sn2005hk,-7.3,Shift Spectrum,False,False
+sn2002cx,15.2,Shift and Add Spikes,False,True
+sn2002cx,25.0,Add Spikes,False,True
+sn2002cx,19.1,Shift Spectrum,False,False
+sn2008A,23.6,None,False,False
+sn2002cx,19.1,Shift and Add Spikes,False,True
+sn2008A,-7.9,Shift Spectrum,False,False
+sn2002cx,-1.4,Shift Spectrum,False,False
+sn2005hk,65.5,Shift and Add Spikes,False,True
+sn2008A,23.6,Add Spikes,False,True
+sn02cx,23.0,Shift and Add Spikes,False,True
+sn2002cx,25.0,Add Spikes,False,True
+sn2002cx,11.3,Add Spikes,False,True
+sn02cx,53.3,Add Spikes,False,True
+sn2008A,-1.9,Shift and Add Spikes,False,True
+sn2005hk,65.5,None,False,False
+sn2005hk,12.4,Shift Spectrum,False,False
+sn2002cx,19.1,Shift and Add Spikes,False,True
+sn2008A,43.3,Add Spikes,False,True
+sn2005hk,-8.3,None,False,False
+sn2005hk,42.9,Add Spikes,False,True
+sn2008A,27.5,None,False,False
+sn2002cx,-4.3,Shift and Add Spikes,False,True
+sn2008A,-1.9,Shift and Add Spikes,False,True
+sn2002cx,24.0,Shift and Add Spikes,False,True
+sn2008A,1.0,Shift and Add Spikes,False,True
+sn02cx,53.3,Add Spikes,False,True
+sn2005hk,37.0,Shift Spectrum,False,False
+sn2005hk,-2.4,Shift and Add Spikes,False,True
+sn2005hk,14.3,Shift Spectrum,False,False
+sn02cx,18.2,None,False,False
+sn2005hk,26.4,Shift and Add Spikes,False,True
+sn2008A,-7.9,Shift and Add Spikes,False,True
+sn2005gj,10.4,None,False,False
+sn2005gj,40.5,Add Spikes,False,True
+sn2005gj,63.9,Add Spikes,False,True
+sn2005gj,92.1,Shift Spectrum,False,False
+sn2005gj,88.4,Shift and Add Spikes,False,True
+sn2002ic,31.9,Add Spikes,False,True
+sn2005gj,64.9,Shift Spectrum,False,False
+sn2005gj,-12.1,None,False,False
+sn2005gj,67.7,Shift and Add Spikes,False,True
+sn2005gj,88.4,None,False,False
+sn2005gj,17.9,Add Spikes,False,True
+sn2005gj,10.4,Add Spikes,False,True
+sn2005gj,66.8,Add Spikes,False,True
+sn05gj,48.113,Shift Spectrum,False,False
+sn2005gj,39.4,None,False,False
+sn2002ic,65.6,Add Spikes,False,True
+sn2002ic,5.6,Shift Spectrum,False,False
+sn2005gj,66.8,None,False,False
+sn2005gj,88.4,Shift and Add Spikes,False,True
+sn2005gj,75.3,Add Spikes,False,True
+sn2005gj,75.3,Shift Spectrum,False,False
+sn2005gj,133.5,None,False,False
+sn05gj,74.499,Add Spikes,False,True
+sn2005gj,64.9,Add Spikes,False,True
+sn2005gj,92.1,None,False,False
+sn2005gj,-1.8,Add Spikes,False,True
+sn2005gj,-12.1,None,False,False
+sn2005gj,66.8,Shift Spectrum,False,False
+sn2005gj,75.3,Shift Spectrum,False,False
+sn2005gj,66.8,None,False,False
+sn2005gj,65.8,Shift and Add Spikes,False,True
+sn2005gj,61.1,Shift and Add Spikes,False,True
+sn2005gj,65.8,None,False,False
+sn2005gj,88.4,None,False,False
+sn05gj,74.499,None,False,False
+sn2005gj,63.0,Add Spikes,False,True
+sn2005gj,67.7,Shift and Add Spikes,False,True
+sn2002ic,5.6,Shift Spectrum,False,False
+sn2005gj,38.5,Shift Spectrum,False,False
+sn2005gj,75.3,None,False,False
+sn2005gj,92.1,Shift and Add Spikes,False,True
+sn2005gj,7.7,Shift Spectrum,False,False
+sn05gj,74.499,Shift and Add Spikes,False,True
+sn2002ic,9.4,Add Spikes,False,True
+sn2005gj,42.3,None,False,False
+sn2005gj,27.3,Add Spikes,False,True
+sn2005gj,65.8,Add Spikes,False,True
+sn2005gj,-12.1,None,False,False
+sn2005gj,75.3,Add Spikes,False,True
+sn05gj,48.113,Add Spikes,False,True
+sn2005gj,42.3,Shift and Add Spikes,False,True
+sn2005gj,17.9,Shift and Add Spikes,False,True
+sn2005gj,133.5,None,False,False
+sn2005gj,27.3,Add Spikes,False,True
+sn2005gj,133.5,Add Spikes,False,True
+sn2005gj,39.4,Shift Spectrum,False,False
+sn2005gj,92.1,Shift Spectrum,False,False
+sn2005gj,38.5,Shift and Add Spikes,False,True
+sn05gj,46.254,None,False,False
+sn2005gj,38.5,None,False,False
+sn2005gj,63.9,Add Spikes,False,True
+sn05gj,46.254,Add Spikes,False,True
+sn2005gj,17.9,Shift Spectrum,False,False
+sn2002ic,44.1,None,False,False
+sn05gj,46.254,Shift and Add Spikes,False,True
+sn2005gj,38.5,None,False,False
+sn2005gj,63.9,Shift and Add Spikes,False,True
+sn05gj,74.499,Shift Spectrum,False,False
+sn05gj,48.113,Add Spikes,False,True
+sn2005gj,51.8,Add Spikes,False,True
+sn2002ic,44.1,Shift and Add Spikes,False,True
+sn2005gj,67.7,Add Spikes,False,True
+sn2002ic,5.6,None,False,False
+sn2002ic,65.6,Add Spikes,False,True
+sn2005gj,-1.8,Shift and Add Spikes,False,True
+sn2005gj,27.3,None,False,False
+sn05gj,74.499,Add Spikes,False,True
+sn2005gj,51.8,Add Spikes,False,True
+sn2002ic,44.1,Shift Spectrum,False,False
+sn2005gj,92.1,None,False,False
+sn05gj,74.499,Shift and Add Spikes,False,True
+sn05gj,46.254,Add Spikes,False,True
+sn2005gj,133.5,None,False,False
+sn2005gj,88.4,None,False,False
+sn2005gj,17.9,Add Spikes,False,True
+sn05gj,74.499,Shift and Add Spikes,False,True
+sn05gj,46.254,None,False,False
+sn2005gj,39.4,None,False,False
+sn2005gj,38.5,None,False,False
+sn2005gj,38.5,Shift Spectrum,False,False
+sn2005gj,63.0,Shift and Add Spikes,False,True
+sn05gj,46.254,Shift and Add Spikes,False,True
+sn2005gj,39.4,Shift and Add Spikes,False,True
+sn2005gj,63.9,None,False,False
+sn2005gj,39.4,Add Spikes,False,True
+sn2005gj,42.3,None,False,False
+sn2005gj,27.3,Shift and Add Spikes,False,True
+sn2005gj,-12.1,Shift and Add Spikes,False,True
+sn2002ic,5.6,None,False,False
+sn2002ic,44.1,Add Spikes,False,True
+sn2005gj,66.8,Add Spikes,False,True
+sn2005gj,61.1,Shift and Add Spikes,False,True
+sn2005gj,27.3,Add Spikes,False,True
+sn2002ic,44.1,Shift Spectrum,False,False
+sn2002ic,65.6,Add Spikes,False,True
+sn2005gj,65.8,Shift and Add Spikes,False,True
+sn05gj,74.499,None,False,False
+sn2005gj,39.4,None,False,False
+sn2005gj,27.3,Add Spikes,False,True
+sn2005gj,-12.1,None,False,False
+sn2002ic,5.6,None,False,False
+sn2005gj,61.1,Shift Spectrum,False,False
+sn2005gj,27.3,Add Spikes,False,True
+sn2005gj,10.4,Add Spikes,False,True
+sn05gj,74.499,None,False,False
+sn2002ic,9.4,Shift and Add Spikes,False,True
+sn2005gj,39.4,Shift Spectrum,False,False
+sn2005gj,10.4,None,False,False
+sn2005gj,17.9,Shift Spectrum,False,False
+sn2005gj,-12.1,Add Spikes,False,True
+sn2005gj,61.1,None,False,False
+sn2005gj,51.8,None,False,False
+sn2005gj,66.8,Shift Spectrum,False,False
+sn2005gj,64.9,Shift Spectrum,False,False
+sn05gj,74.499,Shift Spectrum,False,False
+sn05gj,74.499,None,False,False
+sn2005gj,27.3,Add Spikes,False,True
+sn2005gj,92.1,None,False,False
+sn05gj,74.499,None,False,False
+sn05gj,48.113,Add Spikes,False,True
+sn2002ic,44.1,None,False,False
+sn2005gj,-12.1,Shift and Add Spikes,False,True
+sn2002ic,5.6,None,False,False
+sn2005gj,-1.8,Add Spikes,False,True
+sn2005gj,10.4,Shift Spectrum,False,False
+sn2005gj,92.1,Shift and Add Spikes,False,True
+sn2005gj,133.5,None,False,False
+sn2005gj,7.7,Shift Spectrum,False,False
+sn2005gj,67.7,None,False,False
+sn2005gj,7.7,None,False,False
+sn2005gj,92.1,Shift Spectrum,False,False
+sn2005gj,39.4,None,False,False
+sn2005gj,7.7,Shift Spectrum,False,False
+sn2005gj,7.7,None,False,False
+sn2002ic,44.1,None,False,False
+sn2005gj,92.1,None,False,False
+sn2005gj,38.5,None,False,False
+sn2005gj,27.3,Shift and Add Spikes,False,True
+sn2005gj,61.1,None,False,False
+sn05gj,46.254,Add Spikes,False,True
+sn2002ic,9.4,Shift and Add Spikes,False,True
+sn2005gj,10.4,Shift and Add Spikes,False,True
+sn2005gj,64.9,None,False,False
+sn2005gj,39.4,Shift and Add Spikes,False,True
+sn05gj,74.499,None,False,False
+sn2005gj,88.4,Add Spikes,False,True
+sn2005gj,66.8,Shift and Add Spikes,False,True
+sn2005gj,61.1,Shift Spectrum,False,False
+sn2005gj,10.4,Add Spikes,False,True
+sn2005gj,75.3,Add Spikes,False,True
+sn2002ic,44.1,Shift and Add Spikes,False,True
+sn2005gj,133.5,None,False,False
+sn2005gj,10.4,Shift and Add Spikes,False,True
+sn2005gj,39.4,Shift Spectrum,False,False
+sn2005gj,66.8,Shift Spectrum,False,False
+sn2005gj,75.3,Shift Spectrum,False,False
+sn2005gj,10.4,Shift and Add Spikes,False,True
+sn2005gj,92.1,None,False,False
+sn2002ic,44.1,None,False,False
+sn2005gj,-12.1,Shift and Add Spikes,False,True
+sn2005gj,-12.1,None,False,False
+sn2005gj,63.0,Add Spikes,False,True
+sn2005gj,40.5,Add Spikes,False,True
+sn2005gj,38.5,None,False,False
+sn2005gj,51.8,None,False,False
+sn2005gj,67.7,Add Spikes,False,True
+sn2005gj,-12.1,Shift and Add Spikes,False,True
+sn2005gj,61.1,None,False,False
+sn2005gj,38.5,None,False,False
+sn2005gj,65.8,Shift Spectrum,False,False
+sn2005gj,61.1,Add Spikes,False,True
+sn2005gj,38.5,Shift Spectrum,False,False
+sn2005gj,63.0,Add Spikes,False,True
+sn2002ic,5.6,Shift and Add Spikes,False,True
+sn05gj,46.254,None,False,False
+sn05gj,74.499,Shift Spectrum,False,False
+sn2005gj,7.7,Shift and Add Spikes,False,True
+sn2002ic,31.9,Shift Spectrum,False,False
+sn2005gj,61.1,Shift and Add Spikes,False,True
+sn2002ic,44.1,Shift and Add Spikes,False,True
+sn2005gj,10.4,Shift Spectrum,False,False
+sn2005gj,39.4,Shift and Add Spikes,False,True
+sn2005gj,64.9,Shift Spectrum,False,False
+sn2005gj,92.1,Shift and Add Spikes,False,True
+sn2005gj,64.9,None,False,False
+sn05gj,74.499,Add Spikes,False,True
+sn2002ic,44.1,Shift Spectrum,False,False
+sn2002ic,9.4,Add Spikes,False,True
+sn05gj,48.113,None,False,False
+sn2005gj,75.3,None,False,False
+sn2002ic,65.6,Shift and Add Spikes,False,True
+sn2002ic,44.1,None,False,False
+sn2005gj,10.4,None,False,False
+sn2005gj,7.7,Shift Spectrum,False,False
+sn2005gj,75.3,None,False,False
+sn2005gj,27.3,Shift and Add Spikes,False,True
+sn2002ic,31.9,None,False,False
+sn05gj,74.499,None,False,False
+sn2005gj,38.5,Shift and Add Spikes,False,True
+sn2005gj,7.7,None,False,False
+sn2005gj,63.0,None,False,False
+sn2005gj,133.5,None,False,False
+sn2005gj,67.7,None,False,False
+sn2005gj,67.7,None,False,False
+sn2005gj,63.9,Shift Spectrum,False,False
+sn2005gj,38.5,Add Spikes,False,True
+sn2002ic,44.1,None,False,False
+sn2005gj,39.4,Add Spikes,False,True
+sn2005gj,38.5,Shift Spectrum,False,False
+sn2005gj,39.4,Add Spikes,False,True
+sn2005gj,7.7,Add Spikes,False,True
+sn2005gj,27.3,None,False,False
+sn2005gj,64.9,Shift and Add Spikes,False,True
+sn2005gj,-12.1,Shift and Add Spikes,False,True
+sn2005gj,67.7,Shift and Add Spikes,False,True
+sn2005gj,75.3,Add Spikes,False,True
+sn2005gj,64.9,Add Spikes,False,True
+sn05gj,48.113,Shift Spectrum,False,False
+sn2005gj,-1.8,Shift Spectrum,False,False
+sn2005gj,65.8,Add Spikes,False,True
+sn05gj,48.113,None,False,False
+sn05gj,46.254,Shift Spectrum,False,False
+sn2005gj,40.5,Shift Spectrum,False,False
+sn2005gj,61.1,Shift Spectrum,False,False
+sn2005gj,39.4,None,False,False
+sn2005gj,39.4,Shift Spectrum,False,False
+sn2002ic,44.1,Add Spikes,False,True
+sn05gj,74.499,Add Spikes,False,True
+sn2005gj,133.5,Shift Spectrum,False,False
+sn2005gj,7.7,None,False,False
+sn2005gj,64.9,Shift Spectrum,False,False
+sn2005gj,27.3,Add Spikes,False,True
+sn2005gj,66.8,Shift and Add Spikes,False,True
+sn2005gj,64.9,Shift Spectrum,False,False
+sn05gj,74.499,None,False,False
+sn2005gj,66.8,None,False,False
+sn2002ic,65.6,None,False,False
+sn2005gj,63.0,Shift Spectrum,False,False
+sn05gj,74.499,Add Spikes,False,True
+sn2005gj,66.8,Shift Spectrum,False,False
+sn2005gj,65.8,Shift and Add Spikes,False,True
+sn2005gj,40.5,Shift Spectrum,False,False
+sn2002ic,9.4,Add Spikes,False,True
+sn2005gj,38.5,None,False,False
+sn2005gj,51.8,None,False,False
+sn2005gj,64.9,Add Spikes,False,True
+sn2002ic,31.9,None,False,False
+sn2005gj,51.8,Shift Spectrum,False,False
+sn2005gj,63.9,Add Spikes,False,True
+sn05gj,74.499,None,False,False
+sn2005gj,65.8,Shift and Add Spikes,False,True
+sn2005gj,92.1,Add Spikes,False,True
+sn2002ic,31.9,None,False,False
+sn2005gj,38.5,Shift and Add Spikes,False,True
+sn2005gj,40.5,Shift and Add Spikes,False,True
+sn2002ic,44.1,Add Spikes,False,True
+sn2005gj,92.1,Shift and Add Spikes,False,True
+sn2005gj,27.3,Shift and Add Spikes,False,True
+sn2005gj,61.1,Shift and Add Spikes,False,True
+sn2002ic,9.4,Shift and Add Spikes,False,True
+sn2005gj,17.9,Add Spikes,False,True
+sn2005gj,-1.8,Shift Spectrum,False,False
+sn2002ic,65.6,None,False,False
+sn2002ic,31.9,Add Spikes,False,True
+sn05gj,48.113,Shift Spectrum,False,False
+sn2005gj,65.8,Shift Spectrum,False,False
+sn2005gj,133.5,None,False,False
+sn2005gj,38.5,Shift and Add Spikes,False,True
+sn05gj,46.254,Add Spikes,False,True
+sn2005gj,-1.8,Shift and Add Spikes,False,True
+sn2005gj,-12.1,Add Spikes,False,True
+sn2005gj,63.0,None,False,False
+sn2005gj,-1.8,Shift Spectrum,False,False
+sn2005gj,133.5,Shift and Add Spikes,False,True
+sn2005gj,64.9,Shift Spectrum,False,False
+sn2005gj,63.9,None,False,False
+sn2002ic,5.6,Add Spikes,False,True
+sn2005gj,10.4,Add Spikes,False,True
+sn2005gj,7.7,Shift and Add Spikes,False,True
+sn2005gj,63.9,Add Spikes,False,True
+sn2005gj,64.9,Add Spikes,False,True
+sn2002ic,44.1,Shift and Add Spikes,False,True
+sn2005gj,61.1,None,False,False
+sn2005gj,51.8,Add Spikes,False,True
+sn2005gj,27.3,Shift and Add Spikes,False,True
+sn2005gj,51.8,None,False,False
+sn2005gj,39.4,Shift Spectrum,False,False
+sn2005gj,61.1,Shift Spectrum,False,False
+sn2005gj,61.1,Shift Spectrum,False,False
+sn2005gj,63.0,Add Spikes,False,True
+sn2005gj,92.1,Shift Spectrum,False,False
+sn2002ic,9.4,Shift Spectrum,False,False
+sn2005gj,38.5,Add Spikes,False,True
+sn2005gj,10.4,Shift and Add Spikes,False,True
+sn05gj,74.499,Shift Spectrum,False,False
+sn2002ic,31.9,Shift Spectrum,False,False
+sn2005gj,42.3,None,False,False
+sn2002ic,44.1,Shift Spectrum,False,False
+sn2005gj,133.5,Shift and Add Spikes,False,True
+sn2002ic,5.6,None,False,False
+sn2002ic,44.1,None,False,False
+sn2005gj,10.4,Add Spikes,False,True
+sn2005gj,75.3,None,False,False
+sn2002ic,31.9,None,False,False
+sn2005gj,-12.1,None,False,False
+sn2005gj,92.1,None,False,False
+sn2002ic,9.4,Shift Spectrum,False,False
+sn2005gj,42.3,Add Spikes,False,True
+sn2005gj,38.5,Add Spikes,False,True
+sn05gj,46.254,None,False,False
+sn2005gj,67.7,Add Spikes,False,True
+sn2002ic,65.6,Add Spikes,False,True
+sn2005gj,-1.8,Shift Spectrum,False,False
+sn2005gj,38.5,Shift and Add Spikes,False,True
+sn2002ic,9.4,Add Spikes,False,True
+sn05gj,48.113,Shift and Add Spikes,False,True
+sn2005gj,17.9,Shift Spectrum,False,False
+sn2005gj,63.0,Shift and Add Spikes,False,True
+sn2005gj,39.4,Add Spikes,False,True
+sn2005gj,67.7,Shift and Add Spikes,False,True
+sn2002ic,44.1,None,False,False
+sn2005gj,61.1,Shift and Add Spikes,False,True
+sn05gj,74.499,Shift and Add Spikes,False,True
+sn2005gj,27.3,Shift and Add Spikes,False,True
+sn2005gj,39.4,Shift and Add Spikes,False,True
+sn2005gj,51.8,Shift Spectrum,False,False
+sn2005gj,133.5,None,False,False
+sn2005gj,51.8,Shift and Add Spikes,False,True
+sn2005gj,39.4,Shift Spectrum,False,False
+sn2002ic,31.9,Add Spikes,False,True
+sn05gj,46.254,Shift and Add Spikes,False,True
+sn2005gj,39.4,None,False,False
+sn2005gj,64.9,Shift and Add Spikes,False,True
+sn2005gj,64.9,None,False,False
+sn2005gj,66.8,Shift and Add Spikes,False,True
+sn2005gj,39.4,Add Spikes,False,True
+sn2005gj,66.8,Shift Spectrum,False,False
+sn2005gj,10.4,None,False,False
+sn2005gj,133.5,Shift Spectrum,False,False
+sn2005gj,39.4,None,False,False
+sn2005gj,-12.1,Add Spikes,False,True
+sn2005gj,67.7,Shift and Add Spikes,False,True
+sn2005gj,66.8,Shift and Add Spikes,False,True
+sn2002ic,5.6,Shift Spectrum,False,False
+sn2005gj,27.3,Add Spikes,False,True
+sn2005gj,39.4,Shift and Add Spikes,False,True
+sn2005gj,61.1,Add Spikes,False,True
+sn2005gj,65.8,Add Spikes,False,True
+sn2005gj,67.7,Shift Spectrum,False,False
+sn05gj,46.254,Add Spikes,False,True
+sn2002ic,5.6,Shift Spectrum,False,False
+sn2005gj,38.5,Shift and Add Spikes,False,True
+sn2005gj,-12.1,None,False,False
+sn2005gj,51.8,Add Spikes,False,True
+sn2005gj,-12.1,Shift and Add Spikes,False,True
+sn2005gj,63.0,Shift Spectrum,False,False
+sn2005gj,51.8,Add Spikes,False,True
+sn2005gj,64.9,Shift Spectrum,False,False
+sn2005gj,39.4,None,False,False
+sn05gj,46.254,Shift Spectrum,False,False
+sn2005gj,7.7,Shift Spectrum,False,False
+sn2005gj,75.3,Shift Spectrum,False,False
+sn2005gj,-12.1,Shift Spectrum,False,False
+sn2002ic,31.9,Shift and Add Spikes,False,True
+sn2005gj,27.3,Shift Spectrum,False,False
+sn2005gj,65.8,Shift Spectrum,False,False
+sn2005gj,133.5,None,False,False
+sn2005gj,61.1,Add Spikes,False,True
+sn2005gj,17.9,Shift Spectrum,False,False
+sn2005gj,51.8,Add Spikes,False,True
+sn2002ic,65.6,Shift Spectrum,False,False
+sn2005gj,75.3,Shift and Add Spikes,False,True
+sn2005gj,40.5,Shift Spectrum,False,False
+sn2005gj,65.8,None,False,False
+sn2005gj,10.4,Shift Spectrum,False,False
+sn2005gj,10.4,Add Spikes,False,True
+sn2005gj,63.9,Shift Spectrum,False,False
+sn2005gj,17.9,Add Spikes,False,True
+sn2005gj,75.3,Shift and Add Spikes,False,True
+sn2002ic,65.6,Shift Spectrum,False,False
+sn2005gj,75.3,Shift Spectrum,False,False
+sn2005gj,27.3,Shift and Add Spikes,False,True
+sn2005gj,63.0,Add Spikes,False,True
+sn2005gj,7.7,Add Spikes,False,True
+sn2005gj,65.8,None,False,False
+sn2005gj,7.7,Shift Spectrum,False,False
+sn2005gj,-1.8,None,False,False
+sn2005gj,-1.8,Add Spikes,False,True
+sn2005gj,27.3,Shift Spectrum,False,False
+sn2005gj,39.4,Shift and Add Spikes,False,True
+sn2005gj,-1.8,None,False,False
+sn2002ic,65.6,None,False,False
+sn2005gj,51.8,None,False,False
+sn2002ic,31.9,Add Spikes,False,True
+sn2005gj,39.4,None,False,False
+sn2005gj,66.8,Shift Spectrum,False,False
+sn2005gj,88.4,Add Spikes,False,True
+sn2005gj,51.8,Add Spikes,False,True
+sn2005gj,10.4,None,False,False
+sn2005gj,38.5,Shift and Add Spikes,False,True
+sn2005gj,64.9,Shift and Add Spikes,False,True
+sn2005gj,66.8,Add Spikes,False,True
+sn05gj,74.499,None,False,False
+sn2005gj,-12.1,Add Spikes,False,True
+sn2005gj,65.8,Add Spikes,False,True
+sn2005gj,66.8,None,False,False
+sn2005gj,38.5,None,False,False
+sn2005gj,75.3,Add Spikes,False,True
+sn2005gj,51.8,Shift and Add Spikes,False,True
+sn2002ic,5.6,None,False,False
+sn2005gj,17.9,None,False,False
+sn2005gj,42.3,Shift and Add Spikes,False,True
+sn2005gj,61.1,Add Spikes,False,True
+sn2005gj,63.9,Add Spikes,False,True
+sn2005gj,-12.1,Shift and Add Spikes,False,True
+sn2005gj,40.5,Add Spikes,False,True
+sn2002ic,65.6,Shift and Add Spikes,False,True
+sn2005gj,42.3,Add Spikes,False,True
+sn2002ic,9.4,None,False,False
+sn2005gj,61.1,Shift Spectrum,False,False
+sn05gj,74.499,Shift Spectrum,False,False
+sn2005gj,88.4,Add Spikes,False,True
+sn2005gj,27.3,Shift Spectrum,False,False
+sn2005gj,40.5,Add Spikes,False,True
+sn2005gj,10.4,None,False,False
+sn2002ic,5.6,None,False,False
+sn2005gj,133.5,Add Spikes,False,True
+sn2005gj,7.7,Shift and Add Spikes,False,True
+sn2002ic,9.4,Shift Spectrum,False,False
+sn2002ic,5.6,Add Spikes,False,True
+sn2005gj,27.3,Shift and Add Spikes,False,True
+sn2002ic,65.6,None,False,False
+sn2005gj,88.4,Shift and Add Spikes,False,True
+sn2005gj,39.4,None,False,False
+sn2005gj,42.3,None,False,False
+sn2005gj,51.8,None,False,False
+sn2005gj,65.8,Add Spikes,False,True

@@ -1,27 +1,11 @@
-2024-10-24 19:16:57,260 - Object: sn2007uy, phase delay: 12.82
-2024-10-24 19:16:57,260 - ---Modifications: None
-2024-10-24 19:16:57,260 - 
-
-2024-10-24 19:16:57,260 - Object: sn2007uy, phase delay: 45.82
-2024-10-24 19:16:57,260 - ---Modifications: None
-2024-10-24 19:16:57,260 - 
-
-2024-10-24 19:16:57,260 - Object: sn2007uy, phase delay: 54.82
-2024-10-24 19:16:57,260 - ---Modifications: Shift spectra on x axis AND add spikes
-2024-10-24 19:16:57,265 - ------Shift amount: -2
-2024-10-24 19:16:57,266 - ------Number of spikes to add: 3
-2024-10-24 19:16:57,266 - ------Location of spikes (index): [372 278 408]
-2024-10-24 19:16:57,266 - ------Magnitude of spikes: [0.10797332 0.32455698 0.04386733]
-2024-10-24 19:16:57,266 - ------Direction of spikes: [1 1 1]
-2024-10-24 19:16:57,267 - 
-
-2024-10-24 19:16:57,267 - Object: sn2007uy, phase delay: 75.82
-2024-10-24 19:16:57,267 - ---Modifications: Shift spectra on x axis only
-2024-10-24 19:16:57,267 - ------Shift amount: 5
-2024-10-24 19:16:57,267 - 
-
-2024-10-24 19:16:57,267 - Object: sn2007uy, phase delay: 141.82
-2024-10-24 19:16:57,267 - ---Modifications: Shift spectra on x axis only
-2024-10-24 19:16:57,267 - ------Shift amount: -3
-2024-10-24 19:16:57,267 - 
-
+2024-12-26 00:40:33,604 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-12-26 00:40:59,058 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-12-26 00:40:59,061 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-12-26 00:41:06,808 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-12-26 00:41:06,815 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-12-26 00:41:20,629 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-12-26 00:41:20,632 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-12-26 00:41:27,984 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-12-26 00:41:27,988 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-12-26 00:41:46,255 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-12-26 00:41:46,266 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
