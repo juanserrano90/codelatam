@@ -30,9 +30,8 @@ def add_spikes(spectrum, redshift, start=2501.69, end=9993.24):
         startSpec, endSpec = nonzero_indices[0], nonzero_indices[-1]
 
         # The spectrums are in logarithmic scale, so the index of the location of the spike must be determined by the location of the in the logarithmic array closest in value to the tell_loc.
-        log_array = np.logspace(np.log10(start), np.log10(end), num=len(spectrum))  # Create the logarithmically spaced array
-
-        idx = (np.abs(log_array - tell_loc)).argmin()  # Find the index of the element closest to the given value
+        log_array = np.logspace(np.log10(startSpec), np.log10(endSpec), num=len(spectrum))
+        idx = np.clip((np.abs(log_array - tell_loc)).argmin(), startSpec, endSpec - 1) #ment closest to the given value
         spike_loc = stats.randint.rvs(low=startSpec, high=endSpec, size=num_spikes)  # Random spike locations within spectrum
         spike_loc = np.clip(spike_loc, 0, len(spiked)-1)  # Ensure spike locations are within valid indices
 
