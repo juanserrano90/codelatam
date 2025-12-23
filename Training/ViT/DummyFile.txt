@@ -1,1 +1,0 @@
-This is a dummy file to be erased when we have files in this directory.
